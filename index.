@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GenZ Clothes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>GenZ Clothes</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Trendy Fashion for the Next Generation</h2>
+    <p>Discover the latest styles at affordable prices.</p>
+    <a href="#" class="btn">Shop Now</a>
+  </section>
+
+  <section class="products">
+    <h3>Featured Products</h3>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="T-Shirt">
+        <p>GenZ Graphic Tee</p>
+        <p>₹499</p>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Jeans">
+        <p>High-Waist Jeans</p>
+        <p>₹999</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 GenZ Clothes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
